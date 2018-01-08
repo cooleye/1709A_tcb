@@ -21,14 +21,14 @@
 * npm install --save-dev gulp 安装 gulp
 * 新建gulpfile.js
 * 安装gulp 插件
-	** del 删除目录
-	** gulp-less 编译less
-	** gulp-minify-css 压缩css
-	** gulp-uglify  压缩 js
-	** gulp-imagemin 压缩图片
-	** gulp-rename 重命名
-	** gulp-concat 文件合并
-	** gulp-livereload 浏览器自动刷新
+** del 删除目录
+** gulp-less 编译less
+** gulp-minify-css 压缩css
+** gulp-uglify  压缩 js
+** gulp-imagemin 压缩图片
+** gulp-rename 重命名
+** gulp-concat 文件合并
+** gulp-livereload 浏览器自动刷新
 
 
 
@@ -47,6 +47,7 @@
 
 
 # 如何使用
+
 * 把项目克隆下来  git clone https://github.com/cooleye/1709A_tcb.git
 * cd 1709A_tcb
 * npm install
