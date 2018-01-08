@@ -47,9 +47,9 @@
 
 
 # 如何使用
-	* 把项目克隆下来  git clone https://github.com/cooleye/1709A_tcb.git
-	* cd 1709A_tcb
-	* npm install
-	* npm run build
-	* npm run watch
+* 把项目克隆下来  git clone https://github.com/cooleye/1709A_tcb.git
+* cd 1709A_tcb
+* npm install
+* npm run build
+* npm run watch
 
