@@ -44,6 +44,10 @@
 		|- js
 		|- css
 		|- images
+	|- lib
+	|- gulpfile.js
+	|- package.json
+	|- readme.md
 
 
 # 如何使用
