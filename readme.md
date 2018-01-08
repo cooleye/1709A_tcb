@@ -54,8 +54,8 @@
 # 如何使用
 
 1. 把项目克隆下来  git clone https://github.com/cooleye/1709A_tcb.git
-2. cd 1709A_tcb
-3. npm install
-4. npm run build
-5. npm run watch
+2. cd 1709A_tcb   (进入项目)
+3. npm install	 （安装依赖）
+4. npm run build  （执行打包命令）
+5. npm run watch   （开启监听）
 
