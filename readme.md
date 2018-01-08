@@ -2,7 +2,7 @@
 
 ## 技术栈： Bootstrap + jQuery + Less + baiduTemplate + gulp + Node.js + Express + Mysql + 高德地图
 
- 
+ -----------------------------------------
 ## 创建过程
 1. 新建一个目录 1709a_tcb
 2. cd 1709a_tcb/
@@ -30,7 +30,7 @@
 - gulp-concat 文件合并
 - gulp-livereload 浏览器自动刷新
 
-
+---------------------------------------------
 
 ## 目录结构
 	|- node_modules
@@ -49,6 +49,7 @@
 	|- package.json
 	|- readme.md
 
+---------------------------------------------
 
 # 如何使用
 
