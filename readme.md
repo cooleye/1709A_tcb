@@ -33,24 +33,24 @@
 
 
 ## 目录结构
-	/node_modules
-	/app-|
-		 |- html
-		 |- js
-		 |- less
-		 |- images
-	/dist-|
-		  |- html
-		  |- js
-		  |- css
-		  |- images
+	|- node_modules
+	|- app
+		|- html
+		|- js
+		|- less
+		|- images
+	|- dist
+		|- html
+		|- js
+		|- css
+		|- images
 
 
 # 如何使用
 
-* 把项目克隆下来  git clone https://github.com/cooleye/1709A_tcb.git
-* cd 1709A_tcb
-* npm install
-* npm run build
-* npm run watch
+1. 把项目克隆下来  git clone https://github.com/cooleye/1709A_tcb.git
+2. cd 1709A_tcb
+3. npm install
+4. npm run build
+5. npm run watch
 
