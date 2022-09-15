@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/cooleye/1709A_tcb#readme",
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "jquery": "^3.2.1"
   },
   "devDependencies": {
